@@ -1,7 +1,7 @@
 #  PELUQUERIA PELUSA
 ### Programación II | Trabajo práctico 4 | Grupo 4 
 
-El siguiente proyecto se llevo a cabo en el contexto de la materia Programación II de la Tecnicatura Universitaria en Programación - UTN Regional Rosario, durante el año 2022. 
+El siguiente proyecto se llevo a cabo en el contexto de la materia Programación II, a cargo del Ing. Matías Peralta, de la Tecnicatura Universitaria en Programación - UTN Regional Rosario, durante el año 2022. 
 
 ***
 
@@ -11,15 +11,14 @@ El siguiente proyecto se llevo a cabo en el contexto de la materia Programación
 2. Tecnologías
 3. Instalación
 4. Sobre los colaboradores
-5. Preguntas frecuentes
 
 ***
 
 ## 1. Información general
 
 "Peluqueria Pelusa" es un programa de gestión de peluquerias caninas. Te encontrarás con una interfaz sencilla, elegante y fácil de usar. 
-En la pantalla principal podrás elegir entre las ventanas [Perros] y [Personal] donde tendrás la opción de cargar a la base de datos la información pertinente a cada una. 
-Esto te permitirá llevar un control exhaustivo de los datos del perro, así como su comportamiento y el servicio brindado. De igual manera, tambien podrás tener bajo control toda la información relacionada con el personal: datos personales, datos de contacto, experiencia, puesto, salario. En todos los casos usted podrá agregar, borrar y modificar a gusto. 
+En la pantalla principal podrás elegir entre las ventanas [Perros] y [Personal] donde tendrás la opción de cargar a la base de datos la información pertinente a cada una de las secciones mencionadas.
+Esto te permitirá llevar un control exhaustivo de los datos del perro, así como su comportamiento y el servicio brindado. De igual manera, tambien podrás tener bajo control toda la información relacionada con el personal: datos personales, datos de contacto, experiencia, puesto y salario. En todos los casos usted podrá agregar, borrar y modificar a según sea su necesidad.
 
 ***
 
@@ -45,7 +44,7 @@ Cree una nueva carpeta, y una vez allí dentro ejecute el siguiente comando:
  
 	$git clone git@github.com:MattiRuiz/prog2-practico4-grupo4.git
 
-Al clonar el repositotorio, todas los archivos y dependencias que necesita el programa se clonaran en su pc. 
+Al clonar el repositotorio, todos los archivos y dependencias que necesita el programa se clonaran en su pc. 
 ```
 
 Paso 2: 	
@@ -69,5 +68,4 @@ La creación de este programa fue posible gracias a la colaboracion de:
 
 ***
 
-## 5. Preguntas frecuentes
 
